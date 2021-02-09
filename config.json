@@ -2,11 +2,11 @@
  "params":
  {
   "local_server": "True",
-  "local_uri": "mysql://root:@localhost/code-nitesh",
-  "proud_uri": "mysql://root:@localhost/code-nitesh",
+  "local_uri": "mysql://root:@localhost/nitesh",
+  "proud_uri": "mysql://root:@localhost/nitesh",
   "blog_name": "Code-Nitesh",
   "blog_slogan": "Learn Code To Earn",
-  "about_text": "I am Nitesh Dubey. I am a web devloper",
+  "about_text": "I am Nitesh Dubey. I am a web devleoper",
   "no_of_posts": 2,
   "login_img": "bd.svg",
   "admin_user": "Nitesh@gmail.com",
@@ -14,8 +14,6 @@
   "admin": "Admin Panel",
   "admin-text": "Manage your dashboard",
   "upload_location": "C:\\Users\\nitesh dubey\\PycharmProjects\\flask-web\\static\\img"
-
-
 
  }
 
